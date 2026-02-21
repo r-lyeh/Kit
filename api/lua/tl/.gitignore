@@ -1,0 +1,10 @@
+tl.lua.1
+tl.lua.2
+tl.lua.bak
+/luarocks
+/lua
+/lua_modules
+/.luarocks
+/_temp
+/_binary
+docs/book

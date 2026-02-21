@@ -1,0 +1,15 @@
+name: docs
+
+on:
+  push:
+    branches: main
+    paths:
+      - 'docs/**'
+
+jobs:
+  Docs:
+    uses: ./.github/workflows/composite-docs.yml
+    secrets: inherit
+    with:
+      ref: 'main'
+      target-directory: 'book/unstable'
