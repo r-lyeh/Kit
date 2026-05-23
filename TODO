@@ -1,0 +1,4 @@
+- a scene/rendering abstraction
+- bring xml/json apis back from v2/v3
+- a more complete archive/file abstraction
+- macos/linux: test the new docs/* makefiles

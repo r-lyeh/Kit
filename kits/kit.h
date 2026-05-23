@@ -1,0 +1,7 @@
+#include "kit.al/kit.h"
+#include "kit.dd/kit.h"
+#include "kit.ui/kit.h"
+#include "kit.fx/kit.h"
+#include "kit.io/kit.h"
+#include "kit.ease/kit.h"
+#include "kit.data/kit.h"
